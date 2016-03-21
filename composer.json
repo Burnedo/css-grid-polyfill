@@ -1,0 +1,10 @@
+{
+    "name": "Burnedo/css-grid-polyfill",
+    "authors": [
+        {
+            "name": "Andrzej Wamicz",
+            "email": "andrzej.wamicz@gpndata.com"
+        }
+    ],
+    "require": {}
+}
